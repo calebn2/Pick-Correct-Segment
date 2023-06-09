@@ -1,0 +1,18 @@
+[
+    {
+        "correct":"true",
+        "data":"sum += arr[i]"
+    },
+    {
+        "correct":"false",
+        "data":"sum -= arr[i]"
+    },
+    {
+        "correct":"false",
+        "data":"sum += i"
+    },
+    {
+        "correct":"false",
+        "data":"sum -= i"
+    }
+]
